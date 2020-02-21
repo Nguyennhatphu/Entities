@@ -1,0 +1,136 @@
+2020-02-13 10:51:01.0963 ERROR Something went wrong inside GetAllOwners action: Cannot open database "EntitiesContext2" requested by the login. The login failed.
+Login failed for user 'DESKTOP-KMNS09Q\Admin'.
+2020-02-13 10:52:32.5163 ERROR Something went wrong inside GetAllOwners action: Cannot open database "EntitiesContext2" requested by the login. The login failed.
+Login failed for user 'DESKTOP-KMNS09Q\Admin'.
+2020-02-13 10:58:50.0181 INFO Here is info message from the controller.
+2020-02-13 10:58:50.0641 DEBUG Here is debug message from the controller.
+2020-02-13 10:58:50.0641 WARN Here is warn message from the controller.
+2020-02-13 10:58:50.0641 ERROR Here is error message from the controller.
+2020-02-13 10:59:48.2106 ERROR Something went wrong inside GetAllOwners action: Cannot open database "EntitiesContext2" requested by the login. The login failed.
+Login failed for user 'DESKTOP-KMNS09Q\Admin'.
+2020-02-13 11:04:06.3442 ERROR Something went wrong inside GetAllOwners action: Cannot open database "EntitiesContext2" requested by the login. The login failed.
+Login failed for user 'DESKTOP-KMNS09Q\Admin'.
+2020-02-13 11:09:05.1262 ERROR Something went wrong inside GetAllOwners action: Cannot open database "EntitiesContext2" requested by the login. The login failed.
+Login failed for user 'DESKTOP-KMNS09Q\Admin'.
+2020-02-13 11:10:36.3900 ERROR Something went wrong inside GetAllOwners action: Cannot open database "EntitiesContext2" requested by the login. The login failed.
+Login failed for user 'DESKTOP-KMNS09Q\Admin'.
+2020-02-13 17:20:29.5287 INFO Returned all owners from database.
+2020-02-13 17:20:46.0831 ERROR Something went wrong inside UpdateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForUpdateDto -> Owner
+Entities.DataTransferObjects.OwnerForUpdateDto -> Entities.Models.Owner
+2020-02-13 17:21:10.6331 ERROR Something went wrong inside UpdateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForUpdateDto -> Owner
+Entities.DataTransferObjects.OwnerForUpdateDto -> Entities.Models.Owner
+2020-02-13 17:21:12.9702 ERROR Something went wrong inside UpdateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForUpdateDto -> Owner
+Entities.DataTransferObjects.OwnerForUpdateDto -> Entities.Models.Owner
+2020-02-17 08:19:53.3178 INFO Returned all owners from database.
+2020-02-17 08:21:37.1607 INFO Returned all owners from database.
+2020-02-17 08:23:55.8073 INFO Returned all owners from database.
+2020-02-17 08:26:37.7373 ERROR Something went wrong inside UpdateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForUpdateDto -> Owner
+Entities.DataTransferObjects.OwnerForUpdateDto -> Entities.Models.Owner
+2020-02-17 08:29:00.3345 ERROR Something went wrong inside UpdateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForUpdateDto -> Owner
+Entities.DataTransferObjects.OwnerForUpdateDto -> Entities.Models.Owner
+2020-02-17 08:31:21.5617 ERROR Something went wrong inside UpdateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForUpdateDto -> Owner
+Entities.DataTransferObjects.OwnerForUpdateDto -> Entities.Models.Owner
+2020-02-17 08:32:16.7789 ERROR Something went wrong inside UpdateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForUpdateDto -> Owner
+Entities.DataTransferObjects.OwnerForUpdateDto -> Entities.Models.Owner
+2020-02-17 09:00:40.0202 ERROR Something went wrong inside UpdateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForUpdateDto -> Owner
+Entities.DataTransferObjects.OwnerForUpdateDto -> Entities.Models.Owner
+2020-02-17 09:04:28.8131 ERROR Something went wrong inside UpdateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForUpdateDto -> Owner
+Entities.DataTransferObjects.OwnerForUpdateDto -> Entities.Models.Owner
+2020-02-17 09:06:06.5522 ERROR Something went wrong inside UpdateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForUpdateDto -> Owner
+Entities.DataTransferObjects.OwnerForUpdateDto -> Entities.Models.Owner
+2020-02-17 09:09:37.9545 INFO Returned owner with id: 8ac825a3-534e-4f33-b296-08d7b0615948
+2020-02-17 09:10:26.2872 INFO Returned all owners from database.
+2020-02-17 09:10:53.1787 INFO Returned all owners from database.
+2020-02-17 09:11:35.8659 INFO Returned owner with id: 3169d492-886c-4d01-78a9-08d7b34e9b7a
+2020-02-18 15:36:52.1076 INFO Returned all owners from database.
+2020-02-18 15:37:06.6782 INFO Returned all owners from database.
+2020-02-18 15:37:47.1090 INFO Returned all owners from database.
+2020-02-18 15:38:14.5546 INFO Returned owner with id: 8ac825a3-534e-4f33-b296-08d7b0615948
+2020-02-18 15:38:19.2370 INFO Returned all owners from database.
+2020-02-18 15:38:35.0217 ERROR Owner with id: 3169d492-886c-4d01-78a9-08d7b34e9b7a, hasn't been found in db.
+2020-02-18 15:38:39.2598 INFO Returned all owners from database.
+2020-02-18 15:46:35.9437 INFO Returned all owners from database.
+2020-02-20 08:54:58.2082 INFO Returned all owners from database.
+2020-02-20 09:04:58.2405 INFO Returned 6 owners from database.
+2020-02-20 09:09:53.7796 INFO Returned 6 owners from database.
+2020-02-20 09:10:26.3273 INFO Returned 6 owners from database.
+2020-02-20 09:15:30.9250 INFO Returned 6 owners from database.
+2020-02-20 09:21:18.2822 INFO Returned 6 owners from database.
+2020-02-20 09:21:43.3760 INFO Returned 6 owners from database.
+2020-02-20 09:25:39.3929 INFO Returned 6 owners from database.
+2020-02-20 09:26:35.1814 INFO Returned 6 owners from database.
+2020-02-20 09:27:44.6899 INFO Returned 6 owners from database.
+2020-02-20 09:30:50.0402 INFO Returned 6 owners from database.
+2020-02-20 09:31:52.5122 INFO Returned 6 owners from database.
+2020-02-20 09:34:46.0078 INFO Returned 5 owners from database.
+2020-02-20 09:35:26.6045 INFO Returned 5 owners from database.
+2020-02-20 09:35:42.3669 INFO Returned 4 owners from database.
+2020-02-20 09:36:09.5403 INFO Returned 3 owners from database.
+2020-02-20 09:44:38.4315 INFO Returned 6 owners from database.
+2020-02-20 09:45:02.3566 INFO Returned 1 owners from database.
+2020-02-20 09:45:37.7560 INFO Returned 2 owners from database.
+2020-02-20 09:46:01.6561 INFO Returned 2 owners from database.
+2020-02-20 10:36:34.9481 INFO Returned 3 owners from database.
+2020-02-20 10:36:46.7890 INFO Returned 6 owners from database.
+2020-02-20 10:36:54.1006 INFO Returned 5 owners from database.
+2020-02-20 10:37:01.2684 INFO Returned 6 owners from database.
+2020-02-20 10:52:10.6351 INFO Returned 6 owners from database.
+2020-02-20 10:52:33.8531 INFO Returned 6 owners from database.
+2020-02-20 10:54:26.6859 INFO Returned 2 owners from database.
+2020-02-20 10:59:21.1428 INFO Returned 5 owners from database.
+2020-02-20 10:59:29.8955 INFO Returned 0 owners from database.
+2020-02-20 10:59:33.3698 INFO Returned 1 owners from database.
+2020-02-20 10:59:39.4902 INFO Returned 2 owners from database.
+2020-02-20 11:03:17.9591 INFO Returned 2 owners from database.
+2020-02-20 11:03:23.5859 INFO Returned 0 owners from database.
+2020-02-20 11:03:27.6732 INFO Returned 1 owners from database.
+2020-02-20 11:03:33.8014 INFO Returned 2 owners from database.
+2020-02-20 11:03:47.9730 INFO Returned 6 owners from database.
+2020-02-20 11:21:28.2925 INFO Returned 6 owners from database.
+2020-02-20 11:22:07.1950 INFO Returned 6 owners from database.
+2020-02-20 13:41:49.4331 INFO Returned 6 owners from database.
+2020-02-20 13:42:31.1486 INFO Returned 6 owners from database.
+2020-02-20 13:43:23.2548 INFO Returned 1 owners from database.
+2020-02-20 15:00:45.4959 INFO Returned 5 owners from database.
+2020-02-20 15:01:04.2303 INFO Returned 3 owners from database.
+2020-02-20 15:01:20.0082 INFO Returned 6 owners from database.
+2020-02-20 15:01:28.0847 INFO Returned 6 owners from database.
+2020-02-21 08:45:09.3050 INFO Returned 6 owners from database.
+2020-02-21 08:45:35.9696 INFO Returned 6 owners from database.
+2020-02-21 08:46:00.5055 INFO Returned 0 owners from database.
+2020-02-21 08:46:23.8766 INFO Returned owner with id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2020-02-21 08:47:36.2368 INFO Returned 6 owners from database.
+2020-02-21 08:52:53.1230 INFO Returned 6 owners from database.
+2020-02-21 08:55:33.6792 INFO Returned 6 owners from database.
+2020-02-21 08:55:56.3949 INFO Returned owner with id: ca0f1733-01ec-43e5-a364-076bf28948e6
+2020-02-21 08:56:16.1149 INFO Returned owner with id: a3c1880c-674c-4d18-8f91-5d3608a2c937
